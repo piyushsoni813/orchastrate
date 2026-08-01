@@ -1,5 +1,6 @@
 pandas
-anthropic
+google-genai
+groq
 openai-whisper
 python-dotenv
 pydantic
