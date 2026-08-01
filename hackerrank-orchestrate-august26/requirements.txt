@@ -1,0 +1,5 @@
+pandas
+anthropic
+openai-whisper
+python-dotenv
+pydantic
